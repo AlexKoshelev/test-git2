@@ -2,3 +2,4 @@
 2. git add [files] - добавляет файлы в stage
 3. git comit 
 4. git log / git log --oneline
+5. git push [rep_link] [branch_name]
